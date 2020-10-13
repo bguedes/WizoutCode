@@ -1,0 +1,18 @@
+{
+  "name": "generator-stargate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bruno Guedes",
+  "license": "ISC",
+  "dependencies": {
+    "cassandra-driver": "^4.6.0",
+    "chalk": "^4.1.0",
+    "lodash": "^4.17.20",
+    "yeoman-generator": "^4.12.0",
+    "yosay": "^2.0.2"
+  }
+}
